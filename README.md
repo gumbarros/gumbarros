@@ -2,4 +2,5 @@
 
 - I am currently working with Flutter ❤️
 - Learning Android development with Kotlin 📖 
+- Web development is also an area that I like 🌐
 - I also appreciate Linux technologies 🐧
