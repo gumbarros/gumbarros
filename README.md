@@ -5,4 +5,4 @@
 - Web development is also an area that I like 🌐
 - I also appreciate Linux technologies 🐧
 
-[![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gumbarros&count_private=true&theme=dark&show_icons=true)](https://github.com/gumbarros)
+[![Gustavo GitHub Stats](https://github-readme-stats.vercel.app/api?username=gumbarros&count_private=true&theme=dark&show_icons=true)](https://github.com/gumbarros)
