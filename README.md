@@ -1,5 +1,5 @@
 # Hello there 😀! 
-My name is Gustavo and I work as a programmer at [!JJ Consulting(https://www.jjconsulting.com.br)] 💻
+My name is Gustavo and I work as a programmer at [JJ Consulting](https://www.jjconsulting.com.br) 💻
 - I am currently developing with Flutter ❤️
 - Learning Kotlin and JS 📖 
 - Web development is also an area that I like 🌐
