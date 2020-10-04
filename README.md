@@ -8,3 +8,5 @@ My name is Gustavo and I work as a programmer at [JJ Consulting](https://www.jjc
 [![Gustavo GitHub Stats](https://github-readme-stats.vercel.app/api?username=gumbarros&count_private=true&theme=dark&show_icons=true)](https://github.com/gumbarros)
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mauricio-de-barros-89a727185/)
+
+[![Discord Badge](https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white&color=7289da)](https://i.ibb.co/hMJmWXP/Screenshot-2.png)
