@@ -7,8 +7,8 @@ My name is Gustavo and I work as a programmer at [JJ Consulting](https://www.jjc
 - I also appreciate Linux technologies 🐧
 <hr>
 <p align="center">
-[![Gustavo GitHub Stats](https://github-readme-stats.vercel.app/api?username=gumbarros&count_private=true&theme=dark&show_icons=true)]
-[![Gustavo Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gumbarros&show_icons=true&count_private=true&theme=dark)]
+[![Gustavo GitHub Stats](https://github-readme-stats.vercel.app/api?username=gumbarros&count_private=true&theme=dark&show_icons=true)](https://www.github.com/gumbarros)
+[![Gustavo Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gumbarros&show_icons=true&count_private=true&theme=dark)](https://www.github.com/gumbarros)
 </p>
 <p>
   &nbsp;
