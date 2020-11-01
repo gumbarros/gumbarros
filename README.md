@@ -8,7 +8,7 @@ My name is Gustavo and I work as a programmer at [JJ Consulting](https://www.jjc
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gumbarros&count_private=true&theme=dark&show_icons=true" alt="Gustavo's Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumbarros&show_icons=true&count_private=true&theme=dark&hide=ruby&langs_count=8" alt="Gustavo's languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumbarros&show_icons=true&count_private=true&theme=dark&hide=ruby,swift,objective-c&langs_count=8" alt="Gustavo's languages">
 </p>
 <p>
   &nbsp;
