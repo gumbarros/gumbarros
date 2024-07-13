@@ -1,6 +1,6 @@
 ## Hello there 
 
-I currently work at [@JJConsulting](https://www.github.com/jjconsulting). I like the .NET ecosystem and also Flutter sometimes. 
+I currently work at [JJConsulting](https://www.github.com/jjconsulting). I like the .NET ecosystem and also Flutter sometimes. 
 
 Some of the projects I work:
 #### [JJMasterData](https://www.github.com/jjconsulting/JJMasterData) 
@@ -14,6 +14,6 @@ NCalc is a powerful mathematical expression evaluator for .NET.
 When not coding I like to swim, play piano and travel. I also have a tailless cat:
 
 
-<img src="https://github.com/user-attachments/assets/d4fce463-7d06-4544-a8a9-9866eecb7efb" width="300"/>
+<img src="https://github.com/user-attachments/assets/43e65a0e-6603-42f2-bd36-d203384d9c81" width="300"/>
 
 <!--Easter egg for you reading the source 🥚 https://www.youtube.com/watch?v=dQw4w9WgXcQ-->
