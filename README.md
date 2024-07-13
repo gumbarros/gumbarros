@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello there 
 
-<!--
-**gumbarros/gumbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently work at [@JJConsulting](https://www.github.com/jjconsulting). I like the .NET ecosystem and also Flutter sometimes. 
 
-Here are some ideas to get you started:
+Some of the projects I work:
+#### [JJMasterData](https://www.github.com/jjconsulting/JJMasterData) 
+JJMasterData is a runtime form generator based on database metadata. It allows you to create forms dynamically by leveraging information from your database schema.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [NCalc](https://www.github.com/ncalc/ncalc) 
+NCalc is a powerful mathematical expression evaluator for .NET.
+
+---
+
+When not coding I like to swim, play piano and travel. I also have a tailless cat:
+
+
+<img src="https://github.com/user-attachments/assets/d4fce463-7d06-4544-a8a9-9866eecb7efb" width="300"/>
+
+<!--Easter egg for you reading the source 🥚 https://www.youtube.com/watch?v=dQw4w9WgXcQ-->
