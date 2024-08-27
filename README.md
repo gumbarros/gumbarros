@@ -11,9 +11,10 @@ NCalc is a powerful mathematical expression evaluator for .NET.
 
 ---
 
-When not coding I like to swim, play piano and travel. I also have a tailless cat:
-
+When not coding I like to swim, play piano and travel.
+<!--
+I also have a tailless cat:
 
 <img src="https://github.com/user-attachments/assets/43e65a0e-6603-42f2-bd36-d203384d9c81" width="150"/>
-
+-->
 <!--Easter egg for you reading the source 🥚 https://www.youtube.com/watch?v=dQw4w9WgXcQ-->
