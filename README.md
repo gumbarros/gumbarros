@@ -20,6 +20,8 @@ I also have a tailless cat:
 <!--Easter egg for you reading the source 🥚 https://www.youtube.com/watch?v=dQw4w9WgXcQ-->
 
 
+## ⚡ Recent activity
+
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#125](https://github.com/sklose/NCalc2/issues/125) in [sklose/NCalc2](https://github.com/sklose/NCalc2)
 2. ❗ Opened issue [#8](https://github.com/sheetsync/NCalc/issues/8) in [sheetsync/NCalc](https://github.com/sheetsync/NCalc)
