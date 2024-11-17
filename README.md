@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#125](https://github.com/sklose/NCalc2/issues/125) in [sklose/NCalc2](https://github.com/sklose/NCalc2)
-2. ❗ Opened issue [#8](https://github.com/sheetsync/NCalc/issues/8) in [sheetsync/NCalc](https://github.com/sheetsync/NCalc)
-3. 🚀 Published release [v5.3.0](https://github.com/ncalc/ncalc/releases/tag/v5.3.0) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-4. 🎉 Merged PR [#364](https://github.com/ncalc/ncalc/pull/364) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-5. 🔒 Closed issue [#205](https://github.com/ncalc/ncalc/issues/205) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+1. 🔒 Closed issue [#140](https://github.com/ncalc/ncalc/issues/140) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+2. 🗣 Commented on [#140](https://github.com/ncalc/ncalc/issues/140#issuecomment-2480867808) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+3. 🔒 Closed issue [#140](https://github.com/ncalc/ncalc/issues/140) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+4. ❗ Opened issue [#125](https://github.com/sklose/NCalc2/issues/125) in [sklose/NCalc2](https://github.com/sklose/NCalc2)
+5. ❗ Opened issue [#8](https://github.com/sheetsync/NCalc/issues/8) in [sheetsync/NCalc](https://github.com/sheetsync/NCalc)
 <!--END_SECTION:activity-->
