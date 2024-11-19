@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#281](https://github.com/JJConsulting/JJMasterData/pull/281) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
-2. 💪 Opened PR [#281](https://github.com/JJConsulting/JJMasterData/pull/281) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
-3. 🔒 Closed issue [#140](https://github.com/ncalc/ncalc/issues/140) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-4. 🗣 Commented on [#140](https://github.com/ncalc/ncalc/issues/140#issuecomment-2480867808) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-5. 🔒 Closed issue [#140](https://github.com/ncalc/ncalc/issues/140) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+1. 💪 Opened PR [#17](https://github.com/panoramicdata/PanoramicData.NCalcExtensions/pull/17) in [panoramicdata/PanoramicData.NCalcExtensions](https://github.com/panoramicdata/PanoramicData.NCalcExtensions)
+2. 🎉 Merged PR [#281](https://github.com/JJConsulting/JJMasterData/pull/281) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+3. 💪 Opened PR [#281](https://github.com/JJConsulting/JJMasterData/pull/281) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+4. 🔒 Closed issue [#140](https://github.com/ncalc/ncalc/issues/140) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+5. 🗣 Commented on [#140](https://github.com/ncalc/ncalc/issues/140#issuecomment-2480867808) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
 <!--END_SECTION:activity-->
