@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#365](https://github.com/ncalc/ncalc/pull/365) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-2. 💪 Opened PR [#17](https://github.com/panoramicdata/PanoramicData.NCalcExtensions/pull/17) in [panoramicdata/PanoramicData.NCalcExtensions](https://github.com/panoramicdata/PanoramicData.NCalcExtensions)
-3. 🎉 Merged PR [#281](https://github.com/JJConsulting/JJMasterData/pull/281) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
-4. 💪 Opened PR [#281](https://github.com/JJConsulting/JJMasterData/pull/281) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
-5. 🔒 Closed issue [#140](https://github.com/ncalc/ncalc/issues/140) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+1. 🎉 Merged PR [#365](https://github.com/ncalc/ncalc/pull/365) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+2. 💪 Opened PR [#365](https://github.com/ncalc/ncalc/pull/365) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+3. 💪 Opened PR [#17](https://github.com/panoramicdata/PanoramicData.NCalcExtensions/pull/17) in [panoramicdata/PanoramicData.NCalcExtensions](https://github.com/panoramicdata/PanoramicData.NCalcExtensions)
+4. 🎉 Merged PR [#281](https://github.com/JJConsulting/JJMasterData/pull/281) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+5. 💪 Opened PR [#281](https://github.com/JJConsulting/JJMasterData/pull/281) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
 <!--END_SECTION:activity-->
