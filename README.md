@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#167](https://github.com/sebastienros/parlot/pull/167) in [sebastienros/parlot](https://github.com/sebastienros/parlot)
-2. 🎉 Merged PR [#365](https://github.com/ncalc/ncalc/pull/365) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-3. 💪 Opened PR [#365](https://github.com/ncalc/ncalc/pull/365) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-4. 💪 Opened PR [#17](https://github.com/panoramicdata/PanoramicData.NCalcExtensions/pull/17) in [panoramicdata/PanoramicData.NCalcExtensions](https://github.com/panoramicdata/PanoramicData.NCalcExtensions)
-5. 🎉 Merged PR [#281](https://github.com/JJConsulting/JJMasterData/pull/281) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+1. 🗣 Commented on [#22109](https://github.com/dotnet/runtime/issues/22109#issuecomment-2512391052) in [dotnet/runtime](https://github.com/dotnet/runtime)
+2. 💪 Opened PR [#167](https://github.com/sebastienros/parlot/pull/167) in [sebastienros/parlot](https://github.com/sebastienros/parlot)
+3. 🎉 Merged PR [#365](https://github.com/ncalc/ncalc/pull/365) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+4. 💪 Opened PR [#365](https://github.com/ncalc/ncalc/pull/365) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+5. 💪 Opened PR [#17](https://github.com/panoramicdata/PanoramicData.NCalcExtensions/pull/17) in [panoramicdata/PanoramicData.NCalcExtensions](https://github.com/panoramicdata/PanoramicData.NCalcExtensions)
 <!--END_SECTION:activity-->
