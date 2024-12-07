@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35286](https://github.com/dotnet/efcore/issues/35286) in [dotnet/efcore](https://github.com/dotnet/efcore)
-2. 🗣 Commented on [#22109](https://github.com/dotnet/runtime/issues/22109#issuecomment-2512391052) in [dotnet/runtime](https://github.com/dotnet/runtime)
-3. 💪 Opened PR [#167](https://github.com/sebastienros/parlot/pull/167) in [sebastienros/parlot](https://github.com/sebastienros/parlot)
-4. 🎉 Merged PR [#365](https://github.com/ncalc/ncalc/pull/365) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-5. 💪 Opened PR [#365](https://github.com/ncalc/ncalc/pull/365) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+1. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2524699463) in [dotnet/efcore](https://github.com/dotnet/efcore)
+2. 🗣 Commented on [#370](https://github.com/ncalc/ncalc/issues/370#issuecomment-2524696106) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+3. ❗ Opened issue [#35286](https://github.com/dotnet/efcore/issues/35286) in [dotnet/efcore](https://github.com/dotnet/efcore)
+4. 🗣 Commented on [#22109](https://github.com/dotnet/runtime/issues/22109#issuecomment-2512391052) in [dotnet/runtime](https://github.com/dotnet/runtime)
+5. 💪 Opened PR [#167](https://github.com/sebastienros/parlot/pull/167) in [sebastienros/parlot](https://github.com/sebastienros/parlot)
 <!--END_SECTION:activity-->
