@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2525325671) in [dotnet/efcore](https://github.com/dotnet/efcore)
-2. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2525322817) in [dotnet/efcore](https://github.com/dotnet/efcore)
-3. 🗣 Commented on [#371](https://github.com/ncalc/ncalc/issues/371#issuecomment-2525077059) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-4. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2524699463) in [dotnet/efcore](https://github.com/dotnet/efcore)
-5. 🗣 Commented on [#370](https://github.com/ncalc/ncalc/issues/370#issuecomment-2524696106) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+1. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2525334831) in [dotnet/efcore](https://github.com/dotnet/efcore)
+2. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2525325671) in [dotnet/efcore](https://github.com/dotnet/efcore)
+3. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2525322817) in [dotnet/efcore](https://github.com/dotnet/efcore)
+4. 🗣 Commented on [#371](https://github.com/ncalc/ncalc/issues/371#issuecomment-2525077059) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+5. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2524699463) in [dotnet/efcore](https://github.com/dotnet/efcore)
 <!--END_SECTION:activity-->
