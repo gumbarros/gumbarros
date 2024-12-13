@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2536605364) in [dotnet/efcore](https://github.com/dotnet/efcore)
-2. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2535767340) in [dotnet/efcore](https://github.com/dotnet/efcore)
-3. ❗ Opened issue [#1](https://github.com/Uiniel/zen-mods/issues/1) in [Uiniel/zen-mods](https://github.com/Uiniel/zen-mods)
-4. 🎉 Merged PR [#373](https://github.com/ncalc/ncalc/pull/373) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-5. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2525334831) in [dotnet/efcore](https://github.com/dotnet/efcore)
+1. 🗣 Commented on [#372](https://github.com/ncalc/ncalc/issues/372#issuecomment-2540167979) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+2. 🗣 Commented on [#374](https://github.com/ncalc/ncalc/issues/374#issuecomment-2540157458) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+3. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2536605364) in [dotnet/efcore](https://github.com/dotnet/efcore)
+4. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2535767340) in [dotnet/efcore](https://github.com/dotnet/efcore)
+5. ❗ Opened issue [#1](https://github.com/Uiniel/zen-mods/issues/1) in [Uiniel/zen-mods](https://github.com/Uiniel/zen-mods)
 <!--END_SECTION:activity-->
