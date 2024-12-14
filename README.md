@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#374](https://github.com/ncalc/ncalc/issues/374#issuecomment-2541329334) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-2. 🗣 Commented on [#3659](https://github.com/zen-browser/desktop/issues/3659#issuecomment-2540210940) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 🗣 Commented on [#372](https://github.com/ncalc/ncalc/issues/372#issuecomment-2540167979) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-4. 🗣 Commented on [#374](https://github.com/ncalc/ncalc/issues/374#issuecomment-2540157458) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-5. 🗣 Commented on [#35286](https://github.com/dotnet/efcore/issues/35286#issuecomment-2536605364) in [dotnet/efcore](https://github.com/dotnet/efcore)
+1. 🎉 Merged PR [#366](https://github.com/ncalc/ncalc/pull/366) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+2. 🗣 Commented on [#374](https://github.com/ncalc/ncalc/issues/374#issuecomment-2541329334) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+3. 🗣 Commented on [#3659](https://github.com/zen-browser/desktop/issues/3659#issuecomment-2540210940) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+4. 🗣 Commented on [#372](https://github.com/ncalc/ncalc/issues/372#issuecomment-2540167979) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+5. 🗣 Commented on [#374](https://github.com/ncalc/ncalc/issues/374#issuecomment-2540157458) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
 <!--END_SECTION:activity-->
