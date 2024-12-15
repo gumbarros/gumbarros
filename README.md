@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#375](https://github.com/ncalc/ncalc/issues/375#issuecomment-2543982822) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-2. 🔒 Closed issue [#374](https://github.com/ncalc/ncalc/issues/374) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-3. 🗣 Commented on [#372](https://github.com/ncalc/ncalc/issues/372#issuecomment-2543362826) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-4. 🎉 Merged PR [#366](https://github.com/ncalc/ncalc/pull/366) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-5. 🗣 Commented on [#374](https://github.com/ncalc/ncalc/issues/374#issuecomment-2541329334) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+1. 🗣 Commented on [#372](https://github.com/ncalc/ncalc/issues/372#issuecomment-2543995370) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+2. 💪 Opened PR [#377](https://github.com/ncalc/ncalc/pull/377) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+3. 💪 Opened PR [#376](https://github.com/ncalc/ncalc/pull/376) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+4. 🗣 Commented on [#375](https://github.com/ncalc/ncalc/issues/375#issuecomment-2543982822) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+5. 🔒 Closed issue [#374](https://github.com/ncalc/ncalc/issues/374) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
 <!--END_SECTION:activity-->
