@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/ncalc/ncalc/issues/379#issuecomment-2556940926) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-2. 🗣 Commented on [#379](https://github.com/ncalc/ncalc/issues/379#issuecomment-2556873634) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-3. 🗣 Commented on [#379](https://github.com/ncalc/ncalc/issues/379#issuecomment-2556871554) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-4. 🔒 Closed issue [#379](https://github.com/ncalc/ncalc/issues/379) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-5. 🗣 Commented on [#3492](https://github.com/rrousselGit/riverpod/issues/3492#issuecomment-2555473440) in [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod)
+1. 🗣 Commented on [#3659](https://github.com/zen-browser/desktop/issues/3659#issuecomment-2557272850) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. 🗣 Commented on [#379](https://github.com/ncalc/ncalc/issues/379#issuecomment-2556940926) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+3. 🗣 Commented on [#379](https://github.com/ncalc/ncalc/issues/379#issuecomment-2556873634) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+4. 🗣 Commented on [#379](https://github.com/ncalc/ncalc/issues/379#issuecomment-2556871554) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+5. 🔒 Closed issue [#379](https://github.com/ncalc/ncalc/issues/379) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
 <!--END_SECTION:activity-->
