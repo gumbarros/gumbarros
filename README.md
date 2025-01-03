@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#255](https://github.com/JJConsulting/JJMasterData/issues/255#issuecomment-2569425805) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
-2. 🗣 Commented on [#3659](https://github.com/zen-browser/desktop/issues/3659#issuecomment-2557272850) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 🗣 Commented on [#379](https://github.com/ncalc/ncalc/issues/379#issuecomment-2556940926) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-4. 🗣 Commented on [#379](https://github.com/ncalc/ncalc/issues/379#issuecomment-2556873634) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
-5. 🗣 Commented on [#379](https://github.com/ncalc/ncalc/issues/379#issuecomment-2556871554) in [ncalc/ncalc](https://github.com/ncalc/ncalc)
+1. ❗ Opened issue [#286](https://github.com/JJConsulting/JJMasterData/issues/286) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+2. 🗣 Commented on [#265](https://github.com/JJConsulting/JJMasterData/issues/265#issuecomment-2569458650) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+3. 🗣 Commented on [#261](https://github.com/JJConsulting/JJMasterData/issues/261#issuecomment-2569457423) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+4. 🔒 Closed issue [#261](https://github.com/JJConsulting/JJMasterData/issues/261) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+5. 🔒 Closed issue [#252](https://github.com/JJConsulting/JJMasterData/issues/252) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
 <!--END_SECTION:activity-->
