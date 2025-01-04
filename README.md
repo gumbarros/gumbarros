@@ -23,9 +23,9 @@ I also have a tailless cat:
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#286](https://github.com/JJConsulting/JJMasterData/issues/286) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
-2. 🗣 Commented on [#265](https://github.com/JJConsulting/JJMasterData/issues/265#issuecomment-2569458650) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
-3. 🗣 Commented on [#261](https://github.com/JJConsulting/JJMasterData/issues/261#issuecomment-2569457423) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
-4. 🔒 Closed issue [#261](https://github.com/JJConsulting/JJMasterData/issues/261) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
-5. 🔒 Closed issue [#252](https://github.com/JJConsulting/JJMasterData/issues/252) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+1. ❗ Opened issue [#34](https://github.com/Uiniel/zen-mods/issues/34) in [Uiniel/zen-mods](https://github.com/Uiniel/zen-mods)
+2. ❗ Opened issue [#286](https://github.com/JJConsulting/JJMasterData/issues/286) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+3. 🗣 Commented on [#265](https://github.com/JJConsulting/JJMasterData/issues/265#issuecomment-2569458650) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+4. 🗣 Commented on [#261](https://github.com/JJConsulting/JJMasterData/issues/261#issuecomment-2569457423) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
+5. 🔒 Closed issue [#261](https://github.com/JJConsulting/JJMasterData/issues/261) in [JJConsulting/JJMasterData](https://github.com/JJConsulting/JJMasterData)
 <!--END_SECTION:activity-->
