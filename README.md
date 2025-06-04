@@ -1,6 +1,8 @@
 ## Hello there 
 
-I currently work at [JJConsulting](https://www.github.com/jjconsulting). I like the .NET ecosystem and also Flutter sometimes. 
+I'm a Tech Lead at [JJConsulting](https://www.github.com/jjconsulting). I love coding, software architecture, and enjoy working within the .NET ecosystem. I'm a Linux user and a big fan of open source. Always exploring new tools and pushing for simplicity in everything I build.
+
+---
 
 Some of the projects I work:
 #### [JJMasterData](https://www.github.com/jjconsulting/JJMasterData) 
