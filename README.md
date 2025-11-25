@@ -1,19 +1,23 @@
-## Hello there 🌎
+## Hello there <!--general kenobi-->
 
-I'm a Tech Lead at [JJConsulting](https://www.github.com/jjconsulting). I love coding, software architecture, and enjoy working within the .NET ecosystem. I'm a Linux user and a big fan of open source. Always exploring new tools and pushing for simplicity in everything I build.
-
----
-
-Some of the projects I work:
-#### [JJMasterData](https://www.github.com/jjconsulting/JJMasterData) 
-JJMasterData is a runtime form generator based on database metadata. It allows you to create forms dynamically by leveraging information from your database schema.
-
-#### [NCalc](https://www.github.com/ncalc/ncalc) 
-NCalc is a powerful mathematical expression evaluator for .NET.
+I'm a Tech Lead at [JJConsulting](https://www.github.com/jjconsulting). My speciality is the .NET ecosystem, I also like software architecture. I'm a Linux user and a big fan of open source. Always exploring new tools and pushing for simplicity in everything I build.
 
 ---
 
-When not coding I like to touch grass, swim, play piano, travel and do human things.
+Some of the projects I work on:
+
+#### [JJMasterData](https://www.github.com/jjconsulting/JJMasterData)
+
+JJMasterData is a runtime form generator built on top of database metadata. It creates dynamic forms directly from your database schema and supports events, validation, and an extensible architecture for advanced customization.
+
+#### [NCalc](https://www.github.com/ncalc/ncalc)
+
+NCalc is a flexible and efficient mathematical expression evaluator for .NET. It interprets expressions at runtime, supporting functions, custom operators, and dynamic parameters.
+
+---
+
+When I'm not coding, I like to travel, workout, cycle and play piano.
+
 <!--
 I also have a tailless cat:
 
