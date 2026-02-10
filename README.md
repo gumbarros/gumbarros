@@ -14,6 +14,10 @@ JJMasterData is a runtime form generator built on top of database metadata. It c
 
 NCalc is a flexible and efficient mathematical expression evaluator for .NET. It interprets expressions at runtime, supporting functions, custom operators, and dynamic parameters.
 
+#### [EndpointHelpers](https://www.github.com/gumbarros/EndpointHelpers)
+
+EndpointHelpers is a Roslyn source generator that creates strongly-typed helpers for ASP.NET Core MVC URL generation. 
+
 ---
 
 When I'm not coding, I like to travel, workout, cycle and play piano.
