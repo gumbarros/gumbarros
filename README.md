@@ -22,7 +22,7 @@ EndpointHelpers is a Roslyn source generator that creates strongly-typed helpers
 
 When I'm not coding, I like to travel, workout, cycle and play piano.
 
-This is my cat:
+<!--This is my cat:
 
 <img src="https://github.com/user-attachments/assets/43e65a0e-6603-42f2-bd36-d203384d9c81" width="50"/>
-<!--Easter egg for you reading the source 🥚 https://www.youtube.com/watch?v=dQw4w9WgXcQ-->
+Easter egg for you reading the source 🥚 https://www.youtube.com/watch?v=dQw4w9WgXcQ-->
