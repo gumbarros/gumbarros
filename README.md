@@ -18,7 +18,7 @@ NCalc is a flexible and efficient mathematical expression evaluator for .NET. It
 
 EndpointHelpers is a Roslyn source generator that creates strongly-typed helpers for ASP.NET Core MVC URL generation. 
 
-#### [BootstrapSearch](https://www.github.com/gumbarros/BootstrapSearch]
+#### [BootstrapSearch](https://www.github.com/gumbarros/BootstrapSearch)
 
 BootstrapSearch is a lightweight autocomplete and search component for Bootstrap 5. It supports local and remote data sources, customizable rendering, keyboard navigation, multi-select scenarios, and AJAX-powered search with minimal configuration.
 
